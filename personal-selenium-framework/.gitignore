@@ -1,1 +1,16 @@
 /target/
+# Ignore sensitive data
+src/test/resources/config.properties
+
+# Ignore Eclipse metadata
+.classpath
+.project
+.settings/
+
+# Ignore build artifacts
+target/
+bin/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
