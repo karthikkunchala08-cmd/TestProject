@@ -69,7 +69,7 @@ public class OrangeHRMLoginPage extends BaseClass{
 		        }
 		        Assert.assertTrue(dashboardHeader.isDisplayed(),"Negative Test Failed");  
 			}
-			
+			//Kirramaskiloriparri
 			public void loginMethodNegative() {
 				waitInSeconds(10);
 				if (driver == null) {

@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-01-26T12:58:41 IST" name="My Sample Suite" finished-at="2026-01-26T12:59:37 IST" duration-ms="55631">
+  <suite started-at="2026-01-26T15:02:28 IST" name="My Sample Suite" finished-at="2026-01-26T15:03:36 IST" duration-ms="68421">
     <groups>
     </groups>
-    <test started-at="2026-01-26T12:58:41 IST" name="Regression Tests" finished-at="2026-01-26T12:59:37 IST" duration-ms="55631">
+    <test started-at="2026-01-26T15:02:28 IST" name="Regression Tests" finished-at="2026-01-26T15:03:36 IST" duration-ms="68421">
       <class name="TestClass.OrangeHRMTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:TestClass.OrangeHRMTest@443118b0]" started-at="2026-01-26T12:58:42 IST" name="setup" finished-at="2026-01-26T12:59:00 IST" duration-ms="18298" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestClass.OrangeHRMTest@443118b0]" started-at="2026-01-26T15:02:28 IST" name="setup" finished-at="2026-01-26T15:02:49 IST" duration-ms="21530" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTestNegative()[pri:0, instance:TestClass.OrangeHRMTest@443118b0]" started-at="2026-01-26T12:59:00 IST" name="loginTestNegative" finished-at="2026-01-26T12:59:07 IST" duration-ms="7386" status="PASS">
+        <test-method signature="loginTestNegative()[pri:0, instance:TestClass.OrangeHRMTest@443118b0]" started-at="2026-01-26T15:02:49 IST" name="loginTestNegative" finished-at="2026-01-26T15:02:56 IST" duration-ms="6475" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTestNegative -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClass.OrangeHRMTest@443118b0]" started-at="2026-01-26T12:59:07 IST" name="tearDown" finished-at="2026-01-26T12:59:08 IST" duration-ms="323" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClass.OrangeHRMTest@443118b0]" started-at="2026-01-26T15:02:56 IST" name="tearDown" finished-at="2026-01-26T15:02:56 IST" duration-ms="386" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:TestClass.OrangeHRMTest@443118b0]" started-at="2026-01-26T12:59:08 IST" name="setup" finished-at="2026-01-26T12:59:25 IST" duration-ms="17948" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestClass.OrangeHRMTest@443118b0]" started-at="2026-01-26T15:02:56 IST" name="setup" finished-at="2026-01-26T15:03:23 IST" duration-ms="26706" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTestPositive()[pri:0, instance:TestClass.OrangeHRMTest@443118b0]" started-at="2026-01-26T12:59:25 IST" name="loginTestPositive" finished-at="2026-01-26T12:59:37 IST" duration-ms="11306" status="PASS">
+        <test-method signature="loginTestPositive()[pri:0, instance:TestClass.OrangeHRMTest@443118b0]" started-at="2026-01-26T15:03:23 IST" name="loginTestPositive" finished-at="2026-01-26T15:03:36 IST" duration-ms="12845" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTestPositive -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClass.OrangeHRMTest@443118b0]" started-at="2026-01-26T12:59:37 IST" name="tearDown" finished-at="2026-01-26T12:59:37 IST" duration-ms="300" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestClass.OrangeHRMTest@443118b0]" started-at="2026-01-26T15:03:36 IST" name="tearDown" finished-at="2026-01-26T15:03:36 IST" duration-ms="395" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
