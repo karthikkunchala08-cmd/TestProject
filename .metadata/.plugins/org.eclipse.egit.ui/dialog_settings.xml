@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/karthikkunchala08-cmd/TestProject.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="KARTHIK &lt;KARTHIK@KARTHIK&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="KARTHIK &lt;KARTHIK@KARTHIK&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\KARTHIK\git\TestProject\.git">
+			<item value="false"/>
+			<item value="karthikkunchala08-cmd &lt;karthikkunchala08@gmail.com&gt;"/>
+			<item value="Smol changes"/>
+			<item value="karthikkunchala08-cmd &lt;karthikkunchala08@gmail.com&gt;"/>
+			<item value="098597702ce4e51252d17b03a23f04bee476aced"/>
+			<item value="0"/>
+			<item value="false"/>
+			<item value=""/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="531"/>
+		<item key="DIALOG_Y_ORIGIN" value="192"/>
+		<item key="DIALOG_WIDTH" value="667"/>
+		<item key="DIALOG_HEIGHT" value="465"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.6|0|WINDOWS|1|-16|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="GitCommitSearchPage">
+		<item key="HISTORY_SIZE" value="2"/>
+		<section name="HISTORY0">
+			<section name="searchSection">
+				<item key="ignoreCase" value="true"/>
+				<item key="regexSearch" value="false"/>
+				<item key="textPattern" value=".gitignore"/>
+				<item key="matchAuthor" value="true"/>
+				<item key="matchCommit" value="true"/>
+				<item key="matchCommitter" value="true"/>
+				<item key="matchMessage" value="true"/>
+				<item key="matchParents" value="true"/>
+				<item key="matchTree" value="true"/>
+				<item key="allBranches" value="false"/>
+				<item key="repository0" value="C:\Users\KARTHIK\git\TestProject\.git"/>
+				<item key="repositoryCount" value="1"/>
+			</section>
+		</section>
+		<section name="HISTORY1">
+			<section name="searchSection">
+				<item key="ignoreCase" value="true"/>
+				<item key="regexSearch" value="false"/>
+				<item key="textPattern" value=".gitignore"/>
+				<item key="matchAuthor" value="true"/>
+				<item key="matchCommit" value="true"/>
+				<item key="matchCommitter" value="true"/>
+				<item key="matchMessage" value="true"/>
+				<item key="matchParents" value="true"/>
+				<item key="matchTree" value="true"/>
+				<item key="allBranches" value="false"/>
+				<item key="repository0" value="C:\Users\KARTHIK\git\TestProject\.git"/>
+				<item key="repositoryCount" value="1"/>
+			</section>
+		</section>
+	</section>
+</section>
