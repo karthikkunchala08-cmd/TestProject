@@ -65,7 +65,7 @@ public class OrangeHRMLoginPage extends BaseClass{
 		        submitButtton.click(); 
 		        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(OrangeHRMLogin.DASHBOARD_HEADER)));
 		        if(dashboardHeader.isDisplayed()) {
-		        	System.out.println("Positive Test Passed");
+		        	System.out.println("Positive Test is Passed");
 		        }
 		        Assert.assertTrue(dashboardHeader.isDisplayed(),"Negative Test Failed");  
 			}
@@ -81,7 +81,7 @@ public class OrangeHRMLoginPage extends BaseClass{
 		        submitButtton.click();
 		        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(OrangeHRMLogin.INVALID_CREDENTIALS_ERROR_MESSAGE)));
 		        if(invalidCredentialsErroressage.isDisplayed()) {
-		            System.out.println("Negative Test Passed");
+		            System.out.println("Negative Test is Passed");
 		        }
 		        Assert.assertTrue(invalidCredentialsErroressage.isDisplayed(),"Negative Test Failed");
 			}
