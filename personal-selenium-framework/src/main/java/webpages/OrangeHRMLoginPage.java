@@ -17,7 +17,6 @@ public class OrangeHRMLoginPage extends BaseClass{
 				this.driver = driver;
 				PageFactory.initElements(driver, this);
 			}
-	
 			@FindBy(xpath=OrangeHRMLogin.USERNAME)
 			private WebElement userName;
 			@FindBy(xpath=OrangeHRMLogin.PASSWORD)
